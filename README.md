@@ -91,9 +91,6 @@ This is a fully-functional blog application built with Django, featuring user-ge
 ## Contributing
 🤝 Feel free to fork this repository and submit pull requests for any enhancements or bug fixes. All contributions are welcome!
 
-## License
-📜 This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 - 📖 Django Documentation: https://docs.djangoproject.com/en/stable/
 - 📝 PostgreSQL Full-Text Search: https://www.postgresql.org/docs/current/textsearch.html
